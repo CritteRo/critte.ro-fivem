@@ -4,7 +4,7 @@ fx_version 'cerulean' -- Versiunea minima a serverului. momentan este cerulean
 games {'gta5'}
 
 author 'CritteR' -- Numele tau, probabil. Optional.
-description 'Prima ta resursa in FiveM' -- O descriere a resursei. Optional
+description 'Despre comenzi in Lua' -- O descriere a resursei. Optional
 version '1.0.0' -- Versiunea resursei. Optional. 
 
 -- Scripturile
